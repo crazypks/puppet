@@ -1,5 +1,6 @@
-this is line 1
-this is line 2
+this is line 1 github
+this is line 2 github
+this is line 3 github
 this is github change
 this is line two
 that is line 2
