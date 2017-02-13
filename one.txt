@@ -1,2 +1,6 @@
 this is line 1
+<<<<<<< HEAD
 this is line two
+=======
+this is line 2
+>>>>>>> 241b4d4105dd3dc99efecc1a5b6b478563d4c8c8
